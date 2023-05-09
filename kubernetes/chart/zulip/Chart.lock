@@ -1,7 +1,7 @@
 dependencies:
 - name: memcached
   repository: https://charts.bitnami.com/bitnami
-  version: 6.0.16
+  version: 6.4.1
 - name: rabbitmq
   repository: https://charts.bitnami.com/bitnami
   version: 8.32.0
